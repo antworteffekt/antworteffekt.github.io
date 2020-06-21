@@ -13,13 +13,13 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Periodically updated with fresh news, thoughts and activities.'
 widget2:
-  title: "Projects"
-  url: 'http://antworteffekt.github.io/projects/'
+  title: "Research"
+  url: 'http://antworteffekt.github.io/research/'
   text: 'Some things I have been busy with.'
   image: stuff-3.pdf
 widget3:
   title: "About me"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'https://antworteffekt.github.io/about/'
   image: widget-github-303x182.jpg
   text: 'Information on me.'
 

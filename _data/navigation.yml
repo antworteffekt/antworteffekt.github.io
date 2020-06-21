@@ -9,12 +9,12 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: Projects
-  url: "/projects/"
-  side: left
+# - title: Projects
+#   url: "/projects/"
+#   side: left
 
 - title: "Research"
-  url: "/design/"
+  url: "/research/"
   side: left
 
 
